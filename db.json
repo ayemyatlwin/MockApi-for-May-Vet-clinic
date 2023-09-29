@@ -1,0 +1,106 @@
+{
+    "patients":
+    [
+        {
+          "id": 1,
+          "petname": "Buddy",
+          "pawrent": "Alice",
+          "breed": "Golden Retriever",
+          "gender": "Male",
+          "dateOfBirth": "2020-05-15",
+          "contactNo": "+1234567890",
+          "address": "123 Main Street, Cityville"
+        },
+        {
+          "id": 2,
+          "petname": "Luna",
+          "pawrent": "Bob",
+          "breed": "Labrador Retriever",
+          "gender": "Female",
+          "dateOfBirth": "2019-09-10",
+          "contactNo": "+9876543210",
+          "address": "456 Elm Street, Townsville"
+        },
+        {
+          "id": 3,
+          "petname": "Max",
+          "pawrent": "Carol",
+          "breed": "German Shepherd",
+          "gender": "Male",
+          "dateOfBirth": "2018-07-25",
+          "contactNo": "+3456789012",
+          "address": "789 Oak Avenue, Villageland"
+        },
+        {
+          "id": 4,
+          "petname": "Daisy",
+          "pawrent": "David",
+          "breed": "Beagle",
+          "gender": "Female",
+          "dateOfBirth": "2021-03-02",
+          "contactNo": "+2345678901",
+          "address": "101 Pine Lane, Hamletville"
+        },
+        {
+          "id": 5,
+          "petname": "Rocky",
+          "pawrent": "Ella",
+          "breed": "Boxer",
+          "gender": "Male",
+          "dateOfBirth": "2017-11-14",
+          "contactNo": "+8765432109",
+          "address": "222 Cedar Road, Countryside"
+        },
+        {
+          "id": 6,
+          "petname": "Molly",
+          "pawrent": "Frank",
+          "breed": "Poodle",
+          "gender": "Female",
+          "dateOfBirth": "2019-01-30",
+          "contactNo": "+5678901234",
+          "address": "333 Willow Lane, Suburbia"
+        },
+        {
+          "id": 7,
+          "petname": "Charlie",
+          "pawrent": "Grace",
+          "breed": "Bulldog",
+          "gender": "Male",
+          "dateOfBirth": "2016-12-05",
+          "contactNo": "+4567890123",
+          "address": "444 Birch Street, Riverside"
+        },
+        {
+          "id": 8,
+          "petname": "Zoe",
+          "pawrent": "Henry",
+          "breed": "Siberian Husky",
+          "gender": "Female",
+          "dateOfBirth": "2020-08-20",
+          "contactNo": "+2345678901",
+          "address": "555 Spruce Road, Mountainside"
+        },
+        {
+          "id": 9,
+          "petname": "Cooper",
+          "pawrent": "Ivy",
+          "breed": "Corgi",
+          "gender": "Male",
+          "dateOfBirth": "2018-04-18",
+          "contactNo": "+6789012345",
+          "address": "666 Redwood Lane, Woodland"
+        },
+        {
+          "id": 10,
+          "petname": "Misty",
+          "pawrent": "Jack",
+          "breed": "Siamese Cat",
+          "gender": "Female",
+          "dateOfBirth": "2019-06-08",
+          "contactNo": "+3456789012",
+          "address": "777 Maple Avenue, Meadowville"
+        }
+      ]
+      
+}
