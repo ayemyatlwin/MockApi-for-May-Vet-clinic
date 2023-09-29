@@ -1,7 +1,6 @@
 {
-    "patients":
-    [
-        {
+  "patients": [
+      {
           "id": 1,
           "petname": "Buddy",
           "pawrent": "Alice",
@@ -9,19 +8,21 @@
           "gender": "Male",
           "dateOfBirth": "2020-05-15",
           "contactNo": "+1234567890",
-          "address": "123 Main Street, Cityville"
-        },
-        {
+          "address": "123 Main Street, Cityville",
+          "status": "1"
+      },
+      {
           "id": 2,
           "petname": "Luna",
           "pawrent": "Bob",
-          "breed": "Labrador Retriever",
+          "breed": "Golden Retriever",
           "gender": "Female",
           "dateOfBirth": "2019-09-10",
           "contactNo": "+9876543210",
-          "address": "456 Elm Street, Townsville"
-        },
-        {
+          "address": "456 Elm Street, Townsville",
+          "status": "2"
+      },
+      {
           "id": 3,
           "petname": "Max",
           "pawrent": "Carol",
@@ -29,9 +30,10 @@
           "gender": "Male",
           "dateOfBirth": "2018-07-25",
           "contactNo": "+3456789012",
-          "address": "789 Oak Avenue, Villageland"
-        },
-        {
+          "address": "789 Oak Avenue, Villageland",
+          "status": "1"
+      },
+      {
           "id": 4,
           "petname": "Daisy",
           "pawrent": "David",
@@ -39,68 +41,74 @@
           "gender": "Female",
           "dateOfBirth": "2021-03-02",
           "contactNo": "+2345678901",
-          "address": "101 Pine Lane, Hamletville"
-        },
-        {
+          "address": "101 Pine Lane, Hamletville",
+          "status": "2"
+      },
+      {
           "id": 5,
           "petname": "Rocky",
           "pawrent": "Ella",
-          "breed": "Boxer",
+          "breed": "Spaniel",
           "gender": "Male",
           "dateOfBirth": "2017-11-14",
           "contactNo": "+8765432109",
-          "address": "222 Cedar Road, Countryside"
-        },
-        {
+          "address": "222 Cedar Road, Countryside",
+          "status": "2"
+      },
+      {
           "id": 6,
           "petname": "Molly",
           "pawrent": "Frank",
-          "breed": "Poodle",
+          "breed": "Golden Retriever",
           "gender": "Female",
           "dateOfBirth": "2019-01-30",
           "contactNo": "+5678901234",
-          "address": "333 Willow Lane, Suburbia"
-        },
-        {
+          "address": "333 Willow Lane, Suburbia",
+          "status": "1"
+      },
+      {
           "id": 7,
           "petname": "Charlie",
           "pawrent": "Grace",
-          "breed": "Bulldog",
+          "breed": "Golden Retriever",
           "gender": "Male",
           "dateOfBirth": "2016-12-05",
           "contactNo": "+4567890123",
-          "address": "444 Birch Street, Riverside"
-        },
-        {
+          "address": "444 Birch Street, Riverside",
+          "status": "1"
+      },
+      {
           "id": 8,
           "petname": "Zoe",
           "pawrent": "Henry",
-          "breed": "Siberian Husky",
+          "breed": "Spaniel",
           "gender": "Female",
           "dateOfBirth": "2020-08-20",
           "contactNo": "+2345678901",
-          "address": "555 Spruce Road, Mountainside"
-        },
-        {
+          "address": "555 Spruce Road, Mountainside",
+          "status": "2"
+      },
+      {
           "id": 9,
           "petname": "Cooper",
           "pawrent": "Ivy",
-          "breed": "Corgi",
+          "breed": "Golden Retriever",
           "gender": "Male",
           "dateOfBirth": "2018-04-18",
           "contactNo": "+6789012345",
-          "address": "666 Redwood Lane, Woodland"
-        },
-        {
+          "address": "666 Redwood Lane, Woodland",
+          "status": "1"
+      },
+      {
           "id": 10,
           "petname": "Misty",
           "pawrent": "Jack",
-          "breed": "Siamese Cat",
+          "breed": "Spaniel",
           "gender": "Female",
           "dateOfBirth": "2019-06-08",
           "contactNo": "+3456789012",
-          "address": "777 Maple Avenue, Meadowville"
-        }
-      ]
-      
+          "address": "777 Maple Avenue, Meadowville",
+          "status": "1"
+      }
+  ]
 }
