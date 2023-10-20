@@ -15,7 +15,7 @@
       },
       {
         "id": "G-002",
-        "petname": "Luna",
+        "petname": "Jojo",
         "pawrent": "Bob",
         "breed": "Golden Retriever",
         "gender": "Female",
@@ -28,7 +28,7 @@
       },
       {
         "id": "G-003",
-        "petname": "Max",
+        "petname": "Jack",
         "pawrent": "Carol",
         "breed": "Golden Retriever",
         "gender": "Male",
@@ -223,7 +223,7 @@
         },
         {
         "id": "B-006",
-        "petname": "Daisy",
+        "petname": "Wiwi",
         "pawrent": "Sophia",
         "breed": "Beagle",
         "gender": "Female",
@@ -246,7 +246,20 @@
         "township": "Dogtown",
         "city": "Puppyville",
         "status": "picky_eat"
-        }
+        },
+        {
+          "id": "S-006",
+          "petname": "Bobo",
+          "pawrent": "Nini",
+          "breed": "Spaniel",
+          "gender": "Male",
+          "dateOfBirth": "Sat Jan 05 2022 00:00:00 GMT-0600 (Central Standard Time)",
+          "contactNo": "+987654334410",
+          "address": "112 Nouder Road",
+          "township": "King Town",
+          "city": "Bergi",
+          "status": "picky_eat"
+          }
     ]
   }
   
